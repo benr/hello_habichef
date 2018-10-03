@@ -1,5 +1,5 @@
 scaffold_policy_name="hello_habichef"
-pkg_name=chef-base
+pkg_name=hello_habichef
 pkg_origin=cuddletech
 pkg_version="0.0.1"
 pkg_maintainer="@benr"
