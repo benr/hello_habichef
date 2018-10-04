@@ -2,6 +2,9 @@
 
 This repo is a simplified test of the "HabiChef" Pattern.  Running this package will run a single cookbook which simply create the file "/tmp/HABITAT_WAS_HERE".
 
+
+The Package is here: https://bldr.habitat.sh/#/pkgs/cuddletech/hello_habichef/latest
+
 ## The Workflow
 
 To create such a package yourself, the workflow is thus:
