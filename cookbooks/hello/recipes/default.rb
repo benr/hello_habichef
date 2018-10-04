@@ -5,6 +5,6 @@
 # Copyright:: 2018, benr, All Rights Reserved.
 
 file '/tmp/HABITAT_WAS_HERE' do
-  content 'All hail HabiChef.'
+  content 'All hail HabiChef v2.\n\n'
   mode '0755'
 end
